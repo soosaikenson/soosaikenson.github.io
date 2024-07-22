@@ -56,13 +56,15 @@ div.prof-pic{
     padding:50px;
     padding-left: 150px;
     display:flex;
-    background-color:rgb(229, 235, 240);
+    background-color: white;
+    
     height:auto;
     img{
         /* margin:auto; */ 
         border-radius: 100%; 
-
-        /* object-fit: cover; */
+        background-color: rgb(172, 171, 168);
+/* 
+        object-fit: cover; */
       
          } 
     img:hover  {
